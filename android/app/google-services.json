@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929343874637",
+    "firebase_url": "https://seven-bit-default-rtdb.firebaseio.com",
+    "project_id": "seven-bit",
+    "storage_bucket": "seven-bit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929343874637:android:9cdd32b42c28b520019e04",
+        "android_client_info": {
+          "package_name": "com.seven.bits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929343874637-1cu5uvtvt1ekan2aiaivo1r6b994nmbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvvI9zRZVMFTV1MLzm9ygkuDe4kSSPig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929343874637-1cu5uvtvt1ekan2aiaivo1r6b994nmbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

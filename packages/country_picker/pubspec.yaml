@@ -1,0 +1,24 @@
+name: country_picker
+description: A new Flutter package project.
+version: 0.0.1
+homepage: https://konnect.com
+
+environment:
+  sdk: ">=2.11.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_sim_country_code: ^0.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+    - assets/raw/
+    - assets/flags/
