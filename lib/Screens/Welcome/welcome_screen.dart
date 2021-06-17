@@ -178,7 +178,7 @@ class _WelcomeState extends State<WelcomeScreen> {
                                     )
                                   : Image.file(
                                       File(_userImage),
-                                      fit: BoxFit.fill,
+                                      fit: BoxFit.cover,
                                       width: 120,
                                       height: 120,
                                     ),
